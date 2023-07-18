@@ -11,8 +11,8 @@ http://knowledge.autodesk.com/sites/default/files/file_downloads/autocad2009lock
 http://studentsdownload.autodesk.com/ef/47549/753/2613753/AutoCAD_2010_Simplified_Chinese_MLD_Win_32bit.exe
 http://studentsdownload.autodesk.com/ef/47549/533/2613533/AutoCAD_2010_Simplified_Chinese_MLD_Win_64bit.exe
 #### AutoCAD 2010 SP2 x32/x64
-http://knowledge.autodesk.com/sites/default/files/file_downloads/AutoCAD2011Update2.exe
-http://knowledge.autodesk.com/sites/default/files/file_downloads/AutoCAD2011Update1.1x64.exe
+http://knowledge.autodesk.com/sites/default/files/file_downloads/autocad2010update2.exe
+http://knowledge.autodesk.com/sites/default/files/file_downloads/autocad2010update2x64.exe
 ### AutoCAD 2011 x32/x64
 http://trial.autodesk.com/47549/923/3787923/AutoCAD_2011_EKST_Win_32bit.exe
 http://trial.autodesk.com/47549/953/3787953/AutoCAD_2011_EKST_Win_64bit.exe
